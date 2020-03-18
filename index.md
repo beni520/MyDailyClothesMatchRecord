@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的每日衣服存放记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/MyDailyClothesMatchRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在我们日常生活中，每天家里的衣服经常会摆放的比较乱，当我们需要用到的时候经常会手忙脚乱，找不到我们想要的衣服。我们可以记录每件衣服存放的位置，衣服的数量，适用的季节等信息。我们还可以记录每件衣服的特点和平时的使用习惯，这样我们每天在找衣服穿着的时候，就能快速方便的找到我们想要的衣服了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyDailyClothesMatchRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
